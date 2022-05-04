@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Naiduraga
+- 👋 Hi, I’m @RagaMalika
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Naiduraga/Naiduraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I am studying btech.i am still in 2nd year cse branch .I am interested in programming languages .it's not a simple to learn any programming language it's very spicy to learn in depth.
+
+I am currently Btech graduate student .I am presently doing the Microsoft Azure Course Internship in the FutureReady talent portal.I am very excited to take this internship.I am trying to learn more skills to explore my carrier in  the future.
